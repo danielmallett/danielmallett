@@ -1,4 +1,5 @@
 ## Hi there 👋
+I currently work as an undergraduate researcher with [TENNLab](https://neuromorphic.eecs.utk.edu/) at the University of Tennessee, conducting research on neuromorphic computing. 🧠
 
 <!--
 **danielmallett/danielmallett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
